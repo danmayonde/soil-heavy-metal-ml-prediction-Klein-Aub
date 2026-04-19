@@ -1,0 +1,11 @@
+jupyterlab
+matplotlib==3.10.8
+numpy
+pandas
+scikit-learn
+scipy
+seaborn
+shap
+tqdm
+xgboost
+joblib
